@@ -1,78 +1,85 @@
-📁 Files in this Repository
-🔹 Excel – Pivot Table Analysis
+# 📊 Data Analytics Dashboards – Excel | Power BI | Tableau
 
-File: Big_data2_Pivot_Analysis.xlsx
+This repository contains multiple data analytics dashboards created using **Excel Pivot Tables**, **Power BI**, and **Tableau**.  
+Each dashboard focuses on analyzing sales performance, customer insights, profit trends, and KPI reporting.
 
-Includes:
+---
 
-Category-wise Sales & Profit
+## 🔍 Project Overview
 
-Region-wise Sales
+This project demonstrates end-to-end data analysis skills including:
 
-Monthly Sales & Quantity Trends
+- Data Cleaning  
+- Pivot Table Analysis  
+- KPI Creation  
+- Dashboard Designing  
+- Visualization Techniques  
+- Data Insights & Storytelling  
 
-Shipping Performance (Late vs On-time)
+---
 
-Customer Segment Analysis
+## 📂 Contents
 
-🔹 Power BI Dashboards
-Power BI Dashboard 1 (Power BI Dashboard1.pbix)
+### **1️⃣ Excel – Pivot Table Analysis**
+File: `Big_data2_Pivot_Analysis.xlsx`  
+- Sales analysis by category, region, and month  
+- Profit and customer segment breakdown  
+- Late vs. on-time shipment analysis  
+- Product-wise performance  
 
-Practice dashboard including:
+### **2️⃣ Power BI – Sales & KPI Dashboard**
+- Interactive KPIs (Sales, Profit, Quantity)  
+- DAX Measures  
+- Slicers for dynamic analysis  
+- Monthly/Category/Region visuals  
+- Power Query data cleaning  
 
-KPIs
+### **3️⃣ Power BI – Practice Dashboard**
+- Visual practice  
+- KPI performance cards  
+- Custom dashboard layouts  
+- Chart variations  
 
-Category Analysis
+### **4️⃣ Tableau – Insights Dashboard**
+- Sales performance insights  
+- Customer behaviour  
+- Filters and worksheets  
+- KPI charts  
 
-Filters & Slicers
+### **5️⃣ Tableau – Performance Dashboard**
+- Trend analysis  
+- Performance KPIs  
+- Advanced visuals  
+- Region-wise drilldowns  
 
-Visual Performance Cards
+---
 
-Power BI Dashboard 2 (Power BI Dashboard2.pbix)
+## 🛠 Tools & Technologies
+- **Excel** – Pivot Tables, Data Cleaning  
+- **Power BI** – DAX, Power Query, Dashboarding  
+- **Tableau** – Interactive Dashboards  
+- **Python** – pandas, numpy  
+- **SQL** – Joins, GROUP BY, Aggregations  
 
-Sales performance dashboard showing:
+---
 
-Profit Trends
+## 📈 Key Insights
+Here are some business insights observed from the dashboards:
 
-Monthly Insights
+- Some regions consistently outperform others in total sales  
+- Certain categories drive most revenue & profit  
+- Late shipments contribute to customer dissatisfaction  
+- Monthly seasonality clearly visible across categories  
+- Customer segments behave differently in profitability  
 
-Customer & Category Performance
+---
 
-🔹 Tableau Dashboards
-Tableau Dashboard 1 (Tableau Dashboard1.twbx)
+## 📬 Contact
+**Swapnil Sunil Godambe**  
+**LinkedIn:** www.linkedin.com/in/swapnil-godambe-960852312  
+**GitHub:** www.github.com/swapnilgodambe73-sys  
 
-Multi-sheet analysis
+---
 
-Sales & Customer Insights
+⭐ *If you like this project, consider giving it a star!*
 
-Interactive dashboard
-
-Tableau Dashboard 2 (Tableau Dashboard2.twbx)
-
-Sales & Customer Trend Analysis
-
-KPI Visuals
-
-Filters & Drilldowns
-
-🛠️ Tools & Skills Used
-
-Excel: Pivot Tables, Data Cleaning
-
-Power BI: DAX, Power Query, KPIs, Filters
-
-Tableau: Dashboards, Visual Analytics, Storytelling
-
-Data Analysis: Sales, Profit, Region, Monthly Trends, Customer Segments
-
-🎯 Purpose
-
-To showcase my data analyst skills across multiple tools by working on realistic datasets and building dashboards & pivot analyses that reveal business insights.
-
-📬 Contact
-
-LinkedIn: www.linkedin.com/in/swapnil-godambe-960852312
-
-GitHub: www.github.com/swapnilgodambe73-sys
-
-Email: swapnilgodambe73@gmail.com
