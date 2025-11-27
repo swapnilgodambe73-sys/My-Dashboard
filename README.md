@@ -1,76 +1,92 @@
-# 📊 Data Analytics Dashboards – Excel | Power BI | Tableau
+# 📊 Data Analytics Dashboards – Power BI | Tableau | Excel
 
-This repository contains multiple data analytics dashboards created using **Excel Pivot Tables**, **Power BI**, and **Tableau**.  
-Each dashboard focuses on analyzing sales performance, customer insights, profit trends, and KPI reporting.
-
----
-
-## 🔍 Project Overview
-
-This project demonstrates end-to-end data analysis skills including:
-
-- Data Cleaning  
-- Pivot Table Analysis  
-- KPI Creation  
-- Dashboard Designing  
-- Visualization Techniques  
-- Data Insights & Storytelling  
+This repository contains a collection of interactive dashboards built using **Power BI**, **Tableau**, and **Excel**.  
+Each project focuses on real-world datasets and demonstrates skills in data cleaning, modeling, visualization, and business insights.
 
 ---
 
-## 📂 Contents
+## 📁 Project List
 
-### **1️⃣ Excel – Pivot Table Analysis**
-File: `Big_data2_Pivot_Analysis.xlsx`  
-- Sales analysis by category, region, and month  
-- Profit and customer segment breakdown  
-- Late vs. on-time shipment analysis  
-- Product-wise performance  
+### 1️⃣ Global COVID-19 Analytics Dashboard (Power BI)
+**Tools:** Power BI, Power Query, DAX  
+**Description:**  
+A full analytical dashboard showing global COVID trends by country and region. Includes KPIs for total cases, active cases, deaths, recoveries, and critical cases.
 
-### **2️⃣ Power BI – Sales & KPI Dashboard**
-- Interactive KPIs (Sales, Profit, Quantity)  
+**Key Features:**
+- Country & region slicers  
+- Active vs Recovered donut chart  
+- Top 20 countries by case load  
+- Comprehensive KPI indicators  
+
+---
+
+### 2️⃣ Customer & Product Sales Performance Dashboard (Power BI)
+**Tools:** Power BI, DAX  
+**Description:**  
+A customer analytics dashboard that provides insights into buying patterns, demographics, and product-level sales.
+
+**Key Features:**
+- Filters for Gender, Age, Product Category, and Date  
+- Customer Count by Age Group  
+- Product-wise Revenue and Quantity Sold  
+- Daily Customer Trend Line Chart  
+- Gender distribution pie chart  
+
+---
+
+### 3️⃣ Axis Bank Stock Performance Dashboard (Tableau)
+**Tools:** Tableau Desktop, Calculated Fields  
+**Description:**  
+Stock performance analytics dashboard to visualize closing price trends, volatility, and daily percentage movement.
+
+**Key Features:**
+- Closing Price Trend (Line Chart)  
+- KPI Summary: Highest, Lowest, Average Close  
+- Volatility Range Visualization  
+- Daily % Gain/Loss Chart  
+
+---
+
+### 4️⃣ Sales, Profit & Regional Insights Dashboard (Tableau)
+**Tools:** Tableau Desktop  
+**Description:**  
+A multi-sheet sales analytics dashboard showing performance across regions, categories, and customers.
+
+**Key Features:**
+- Region-wise Sales Bar Chart  
+- Monthly Sales Trend (Q1–Q4)  
+- Customer Profitability Chart  
+- Category-wise Profit & Sales  
+- Interactive Geographic Map  
+
+---
+
+### 5️⃣ E-Commerce Sales & Shipping Analysis (Excel Dashboard)
+**Tools:** Excel, Pivot Tables, Pivot Charts  
+**Description:**  
+Dashboard created from a large dataset to analyze sales, categories, regions, and shipping performance.
+
+**Key Features:**
+- Category Sales Pivot  
+- Region Sales Pivot  
+- Shipping Performance (Late vs On-time)  
+- Monthly Sales Trend  
+- KPI summary from pivot charts  
+
+---
+
+## 🛠️ Skills Demonstrated
+- Data Cleaning & Transformation  
 - DAX Measures  
-- Slicers for dynamic analysis  
-- Monthly/Category/Region visuals  
-- Power Query data cleaning  
-
-### **3️⃣ Power BI – Practice Dashboard**
-- Visual practice  
-- KPI performance cards  
-- Custom dashboard layouts  
-- Chart variations  
-
-### **4️⃣ Tableau – Insights Dashboard**
-- Sales performance insights  
-- Customer behaviour  
-- Filters and worksheets  
-- KPI charts  
-
-### **5️⃣ Tableau – Performance Dashboard**
-- Trend analysis  
-- Performance KPIs  
-- Advanced visuals  
-- Region-wise drilldowns  
+- Data Modeling  
+- Advanced Excel Pivoting  
+- Tableau Storytelling  
+- KPI Design  
+- Dashboard Layout Optimization  
 
 ---
 
-## 🛠 Tools & Technologies
-- **Excel** – Pivot Tables, Data Cleaning  
-- **Power BI** – DAX, Power Query, Dashboarding  
-- **Tableau** – Interactive Dashboards  
-- **Python** – pandas, numpy  
-- **SQL** – Joins, GROUP BY, Aggregations  
-
----
-
-## 📈 Key Insights
-Here are some business insights observed from the dashboards:
-
-- Some regions consistently outperform others in total sales  
-- Certain categories drive most revenue & profit  
-- Late shipments contribute to customer dissatisfaction  
-- Monthly seasonality clearly visible across categories  
-- Customer segments behave differently in profitability  
+## 📂 Repository Structure
 
 ---
 
